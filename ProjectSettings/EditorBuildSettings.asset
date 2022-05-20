@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2e8485cf50a9a83459712ceaed23b453
+  - enabled: 1
+    path: Assets/Scenes/Authors.unity
+    guid: 29756322c7d379f409a5c7e0314393a1
+  - enabled: 1
+    path: Assets/Scenes/Play.unity
+    guid: 89ed8de8d86b4094a9e8addc2e8e948d
+  - enabled: 1
+    path: Assets/Scenes/animal scenes/AR_Bull.unity
+    guid: ffc90ff4984efc74a8560335254af506
+  - enabled: 1
+    path: Assets/Scenes/animal scenes/AR_Chicken.unity
+    guid: 863488db741540c46a17b1aeebaa9035
+  - enabled: 1
+    path: Assets/Scenes/animal scenes/AR_Crane.unity
+    guid: 627c965d787a0364a95356bf4a6e5343
+  - enabled: 1
+    path: Assets/Scenes/animal scenes/AR_Goat.unity
+    guid: 53497386206def94eab3f324d17f00de
+  - enabled: 1
+    path: Assets/Scenes/animal scenes/AR_Pig.unity
+    guid: 77f4c8d363e90504d82f1a41c8c23921
+  - enabled: 1
+    path: Assets/Scenes/animal scenes/AR_Rabbit.unity
+    guid: 9a52289ef4d14094e82732184074a921
+  - enabled: 1
+    path: Assets/Scenes/Totorial/how_bull.unity
+    guid: bb4a8c78e9bec06418e81ca2e9911909
+  - enabled: 1
+    path: Assets/Scenes/Totorial/how_chicken.unity
+    guid: 95281a3ee747c0a4485bea59c82b817b
+  - enabled: 1
+    path: Assets/Scenes/Totorial/how_crane.unity
+    guid: facd532ad0fee4241b7a4cb4f21f7e0e
+  - enabled: 1
+    path: Assets/Scenes/Totorial/how_goat.unity
+    guid: 830d41b9da11e8f4e85348395775c982
+  - enabled: 1
+    path: Assets/Scenes/Totorial/how_pig.unity
+    guid: ccfb97fba3f003747bf4ce6b2120c6ed
+  - enabled: 1
+    path: Assets/Scenes/Totorial/how_rabbit.unity
+    guid: 74c73e37577b1b14da725e91ed41f38e
+  m_configObjects: {}
